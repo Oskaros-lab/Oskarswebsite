@@ -1,1 +1,1 @@
-https://github.com/me50/Oskaros-lab
+https://oskaros-lab.github.io/Oskarswebsite/
